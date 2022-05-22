@@ -1,7 +1,7 @@
-## Sangwon SUH
+## Hi there 👋
 
-- ML researcher in DCASE and speaker diarization.
-- Now in [**ReturnZero**](https://www.rtzr.ai/)
+- I'm ML researcher in DCASE and speaker diarization.
+- I'm now in [**ReturnZero**](https://www.rtzr.ai/)
 
 <!--
 **SangwonSUH/SangwonSUH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
