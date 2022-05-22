@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm ML researcher in DCASE and speaker diarization.
+- I'm interested in DCASE and speaker diarization
 - I'm now in [**ReturnZero**](https://www.rtzr.ai/)
 
 <!--
