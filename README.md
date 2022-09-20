@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- I'm interested in DCASE and speaker diarization
-- I'm now in [**ReturnZero**](https://www.rtzr.ai/)
+- 🤔 I'm interested in DCASE and speaker diarization
+- 👯 I'm now in [**ReturnZero**](https://www.rtzr.ai/)
+- 📫 How to reach me: [**LinkIn**](https://www.linkedin.com/in/sangwon-suh-a32037132/)
 
 <!--
 **SangwonSUH/SangwonSUH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
