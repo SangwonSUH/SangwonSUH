@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🤔 I'm interested in DCASE and speaker diarization
-- 👯 I'm now in LG AI Research
+- 🤔 I'm interested in Automatic Speech/Speaker Recognition.
+- 👯 I'm a ML engineer at Samsung Research.
 - 📫 How to reach me: [**LinkIn**](https://www.linkedin.com/in/sangwon-suh-a32037132/)
 
 <!--
